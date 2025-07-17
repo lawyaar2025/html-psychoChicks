@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero {
+  background-image: linear-gradient(to right, #ffefba, #ffffff);
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
